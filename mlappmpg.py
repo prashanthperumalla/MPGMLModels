@@ -22,7 +22,7 @@ from sklearn.ensemble import GradientBoostingRegressor
 # In[4]:
 
 
-df = pd.read_csv(r"C:\Users\perum\OneDrive\Desktop\model2\Auto MPG Reg.csv")
+df = pd.read_csv("Auto MPG Reg.csv")
 
 
 # In[5]:
